@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # 💪 Fitness Routine Planner
 
 **LLM Mini Project | Problem Statement 55**
